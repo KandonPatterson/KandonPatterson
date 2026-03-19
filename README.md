@@ -6,8 +6,8 @@
   - [osTicket: Ticket Installation](https://github.com/KandonPatterson/ticket-lifecycle)
   - [osTicket: Ticket Configuration](https://github.com/KandonPatterson/Ticket-configuration)
 - <b>Microsoft Azure</b>
-  - [Active Directory Infrastructure Setup in Microsoft Azure](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Active Directory Infrastructure Setup in Microsoft Azure](https://github.com/KandonPatterson/Active-Directory-Infrastructure-Setup-in-Microsoft-Azure)
+
 
 <h2>🤳Connect with me:</h2>
 
