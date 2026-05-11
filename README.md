@@ -11,7 +11,7 @@
 - <b>ServiceNow Ticketing System Project<b>
   - [ServiceNow Setup and Ticket Management](https://github.com/KandonPatterson/ServiceNow-Ticketing-System-)
 
-<h2>🤳Connect with me:</h2>
+<h2> ← Connect with me:</h2>
 
 
 [<img align="left" alt="Kandon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
