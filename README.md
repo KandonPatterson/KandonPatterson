@@ -14,8 +14,10 @@
 <h2> ← Connect with me:</h2>
 
 
-[<img align="left" alt="Kandon | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/white" />][linkedin]
-
+<a href="[linkedin]">
+  <img align="left" alt="Kandon | LinkedIn" width="22px" 
+  src="https://cdn.simpleicons.org/linkedin/white" />
+</a>
 
 
 [linkedin]: https://linkedin.com/in/kandonp
